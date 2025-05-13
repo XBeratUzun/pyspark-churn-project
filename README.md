@@ -5,3 +5,4 @@ This project predicts customer churn using the Telco Customer Churn dataset and 
 The notebook includes:
 - Loading and cleaning the dataset
 - Handling missing values and type conversions
+- Saving it as .parquet file
